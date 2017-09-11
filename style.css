@@ -53,15 +53,20 @@ body {
   font-family: "Comic Sans MS", cursive, sans-serif;
   text-align: center;
 }
-
 .profile {
   height: 400px;
+}
+h1 {
+  font-size: 50px;
+}
+h2 {
+  font-size: 25px;
 }
 
 
 /* Dat bounce */
 .banner {
-  height: 50px;	
+  height: 70px;	
   overflow: hidden;
   position: relative;
   background: magenta;
