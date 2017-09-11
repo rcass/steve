@@ -34,3 +34,7 @@
     50%{background-position:100% 19%}
     100%{background-position:0% 82%}
   }
+
+body {
+  font-family: "Comic Sans MS", cursive, sans-serif;
+}
