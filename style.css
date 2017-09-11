@@ -67,6 +67,24 @@ h2 {
 }
 
 
+/* hit the man with some recs */
+.recommendation-box {
+  border: 3px;
+  padding: 20px;
+  margin: 20px;
+  background-color: white;
+  max-width: 40%;
+}
+
+.recommendation-title {
+  font-size: 30px;
+}
+
+.recommendation {
+  padding: 10px;
+}
+
+
 /* Dat bounce */
 .banner {
   height: 70px;	
